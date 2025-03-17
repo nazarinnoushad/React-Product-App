@@ -17,5 +17,5 @@ A simple React application that fetches product data from an API and displays it
 - **Tailwind CSS**: For styling the application with a responsive design.
 
 ### **Live App**:
-[Product App Live Demo]()
+[Product App Live Demo](https://naz-product-app.netlify.app/)
 
